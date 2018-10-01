@@ -7,7 +7,7 @@ text2image 관련 paper 정리 및 관련 자료 정리
   
   b. [Generating Images from Captions with Attention](http://www.thespermwhale.com/jaseweston/ram/papers/paper_13.pdf) by Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba & Ruslan Salakhutdinov
   
-  c.
+  c.[Skip-Thought Vectors](https://arxiv.org/abs/1506.06726) by Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler
   
   d.
   
