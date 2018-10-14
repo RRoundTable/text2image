@@ -42,9 +42,11 @@
 
 ![network_architecture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0EGCG-Phmg-L2RWG9ky9uBCR7Hp5GidXinDUjXXQ9r5tfG3H4Fw)
 
-Generator :\\( R^z*R*T = R^D \\)
+Generator : ![equation](https://latex.codecogs.com/gif.latex?R%5E%7BZ%7D*R%5E%7BT%7D%3DR%5E%7BD%7D)
 
-Discriminator :\\( R^D*R^T -= {0,1} \\)
+Z는 noise를 의미하고 T는 text를 embeding한 dimension을 의미합니다.
+
+Discriminator : ![equation](https://latex.codecogs.com/gif.latex?R%5E%7BD%7D*R%5E%7BT%7D%3D%7B0%2C1%7D)
 
 - Matching-aware discriminator
 
