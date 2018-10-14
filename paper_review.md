@@ -42,9 +42,9 @@
 
 ![network_architecture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0EGCG-Phmg-L2RWG9ky9uBCR7Hp5GidXinDUjXXQ9r5tfG3H4Fw)
 
-Generator : R^z*R*T-> R^D
+Generator :\\( R^z*R*T = R^D \\)
 
-Discriminator : R^D*R^T -> {0,1}
+Discriminator :\\( R^D*R^T -= {0,1} \\)
 
 - Matching-aware discriminator
 
